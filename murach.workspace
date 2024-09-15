@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="murach" Database="" Version="10000">
+  <Project Name="setw_grid" Path="murach/murach.project" Active="No"/>
+  <Project Name="files" Path="files/files.project" Active="No"/>
+  <Project Name="codewars" Path="codewars/codewars.project" Active="No"/>
+  <Project Name="exercise_5-2" Path="exercise_5-2/exercise_5-2.project" Active="No"/>
+  <Project Name="const" Path="const/const.project" Active="No"/>
+  <Project Name="inheritance" Path="inheritance/inheritance.project" Active="No"/>
+  <Project Name="maniipulating_strings" Path="maniipulating_strings/maniipulating_strings.project" Active="No"/>
+  <Project Name="is_punc" Path="is_punc/is_punc.project" Active="No"/>
+  <Project Name="password_grade" Path="password_grade/password_grade.project" Active="No"/>
+  <Project Name="word_mixer" Path="word_mixer/word_mixer.project" Active="No"/>
+  <Project Name="testing" Path="testing/testing.project" Active="No"/>
+  <Project Name="references" Path="references/references.project" Active="No"/>
+  <Project Name="hangman" Path="hangman/hangman.project" Active="No"/>
+  <Project Name="files" Path="files/files.project" Active="No"/>
+  <Project Name="files" Path="files/files.project" Active="No"/>
+  <Project Name="files2" Path="files2/files2.project" Active="No"/>
+  <Project Name="calculator" Path="calculator/calculator.project" Active="No"/>
+  <Project Name="namespace" Path="namespace/namespace.project" Active="No"/>
+  <Project Name="structs" Path="structs/structs.project" Active="No"/>
+  <Project Name="member_functions" Path="member_functions/member_functions.project" Active="No"/>
+  <Project Name="enums" Path="enums/enums.project" Active="No"/>
+  <Project Name="enums2" Path="enums2/enums2.project" Active="No"/>
+  <Project Name="vector_capacity" Path="vector_capacity/vector_capacity.project" Active="No"/>
+  <Project Name="the_french_thing" Path="the_french_thing/the_french_thing.project" Active="Yes"/>
+  <Project Name="random_ascii" Path="password_cracker/password_cracker.project" Active="No"/>
+  <Project Name="customizing_input_and_output" Path="customizing_input_and_output/customizing_input_and_output.project" Active="No"/>
+  <Project Name="chapter_11_drill" Path="chapter_11_drill/chapter_11_drill.project" Active="No"/>
+  <Project Name="chapter_11_1" Path="chapter_11_1/chapter_11_1.project" Active="No"/>
+  <Project Name="chapter_11_3" Path="chapter_11_3/chapter_11_3.project" Active="No"/>
+  <Project Name="graphics" Path="graphics/graphics.project" Active="No"/>
+  <Project Name="maps" Path="maps/maps.project" Active="No"/>
+  <Project Name="the_french_thingy_2" Path="the_french_thingy_2/the_french_thingy_2.project" Active="No"/>
+  <Project Name="count_algorithm" Path="count_algorithm/count_algorithm.project" Active="No"/>
+  <Project Name="replace_algorithm" Path="replace_algorithm/replace_algorithm.project" Active="No"/>
+  <Project Name="min_and_max_element" Path="min_and_max_element/min_and_max_element.project" Active="No"/>
+  <Project Name="the_practise_prodject" Path="the_practise_prodject/the_practise_prodject.project" Active="No"/>
+  <Project Name="french" Path="french/french.project" Active="No"/>
+  <Project Name="online_shopping" Path="online_shopping/online_shopping.project" Active="No"/>
+  <Project Name="testing_2" Path="testing_2/testing_2.project" Active="No"/>
+  <Project Name="for_storing_code" Path="for_storing_code/for_storing_code.project" Active="No"/>
+  <Project Name="lambda_expressions" Path="lambda_expressions/lambda_expressions.project" Active="No"/>
+  <Project Name="arrays" Path="arrays/arrays.project" Active="No"/>
+  <Project Name="c-style_strings" Path="c-style_strings/c-style_strings.project" Active="No"/>
+  <Project Name="function_objects" Path="function_objects/function_objects.project" Active="No"/>
+  <Project Name="bubble_sort" Path="bubble_sort/bubble_sort.project" Active="No"/>
+  <Project Name="array_product_sales" Path="array_product_sales/array_product_sales.project" Active="No"/>
+  <Project Name="two_dimensional_arrays" Path="two_dimensional_arrays/two_dimensional_arrays.project" Active="No"/>
+  <Project Name="mpg_exeption" Path="mpg_exeption/mpg_exeption.project" Active="No"/>
+  <Project Name="mpg_calculator" Path="mpg_calculator/mpg_calculator.project" Active="No"/>
+  <Project Name="murach" Path="murach/murach.project" Active="No"/>
+  <Project Name="enter_num" Path="enter_num/enter_num.project" Active="No"/>
+  <Project Name="custom_exeption" Path="custom_exeption/custom_exeption.project" Active="No"/>
+  <Project Name="classes_test" Path="classes_test/classes_test.project" Active="No"/>
+  <Project Name="practice_with_constructors" Path="practice_with_constructors/practice_with_constructors.project" Active="No"/>
+  <Project Name="Movie_class" Path="Movie_class/Movie_class.project" Active="No"/>
+  <Project Name="Book_class" Path="Book_class/Book_class.project" Active="No"/>
+  <Project Name="custom_class_error" Path="custom_class_error/custom_class_error.project" Active="No"/>
+  <Project Name="orienteering" Path="orienteering/orienteering.project" Active="No"/>
+  <Project Name="overloading_arithmatic_operators" Path="overloading_arithmatic_operators/overloading_arithmatic_operators.project" Active="No"/>
+  <Project Name="char_counter" Path="char_counter/char_counter.project" Active="No"/>
+  <Project Name="this_pointer" Path="this_pointer/this_pointer.project" Active="No"/>
+  <Project Name="allocating_and_deallocating_memory" Path="allocating_and_deallocating_memory/allocating_and_deallocating_memory.project" Active="No"/>
+  <Project Name="Steps_class" Path="Steps_class/Steps_class.project" Active="No"/>
+  <Project Name="CustomContainer" Path="CustomContainer/CustomContainer.project" Active="No"/>
+  <Project Name="template_function" Path="template_function/template_function.project" Active="No"/>
+  <Project Name="find_midpoint_algorithm" Path="find_midpoint_algorithm/find_midpoint_algorithm.project" Active="No"/>
+  <Project Name="bjarne_18_drill" Path="bjarne_18_drill/bjarne_18_drill.project" Active="No"/>
+  <Project Name="is_palindrome" Path="is_palindrome/is_palindrome.project" Active="No"/>
+  <Project Name="christmas" Path="christmas/christmas.project" Active="No"/>
+  <Project Name="hangman2" Path="hangman2/hangman2.project" Active="No"/>
+  <Project Name="vector_iterator" Path="vector_iterator/vector_iterator.project" Active="No"/>
+  <Project Name="game" Path="game/game.project" Active="No"/>
+  <Project Name="fibonacci" Path="fibonacci/fibonacci.project" Active="No"/>
+  <Project Name="containers_and_algorithms" Path="containers_and_algorithms/containers_and_algorithms.project" Active="No"/>
+  <Project Name="threading" Path="threading/threading.project" Active="No"/>
+  <Project Name="mutex" Path="mutex/mutex.project" Active="No"/>
+  <Project Name="tic_tac_toe" Path="tic_tac_toe/tic_tac_toe.project" Active="No"/>
+  <Project Name="calc" Path="calc/calc.project" Active="No"/>
+  <Project Name="rubix" Path="rubix/rubix.project" Active="No"/>
+  <Project Name="chrono_c++20" Path="chrono_c++20/chrono_c++20.project" Active="No"/>
+  <Project Name="metaprogramming" Path="metaprogramming/metaprogramming.project" Active="No"/>
+  <Project Name="Jobber" Path="Jobber/Jobber.project" Active="No"/>
+  <Project Name="concurrency" Path="concurrency/concurrency.project" Active="No"/>
+  <Project Name="remove_const" Path="remove_const/remove_const.project" Active="No"/>
+  <Project Name="is_void" Path="is_void/is_void.project" Active="No"/>
+  <Project Name="is_nullpointer" Path="is_nullpointer/is_nullpointer.project" Active="No"/>
+  <Project Name="longest_palindrome_substr" Path="longest_palindrome_substr/longest_palindrome_substr.project" Active="No"/>
+  <Project Name="John_Lakos" Path="John_Lakos/John_Lakos.project" Active="No"/>
+  <Project Name="camera" Path="camera/camera.project" Active="No"/>
+  <Project Name="testflow" Path="testflow/testflow.project" Active="No"/>
+  <Project Name="operating_system" Path="operating_system/operating_system.project" Active="No"/>
+  <Project Name="AAA_test" Path="AAA_test/AAA_test.project" Active="No"/>
+  <Project Name="wordle" Path="../wordle/wordle.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="main.cpp" ConfigName="Debug"/>
+      <Project Name="setw_grid" ConfigName="Debug"/>
+      <Project Name="files" ConfigName="Debug"/>
+      <Project Name="codewars" ConfigName="Debug"/>
+      <Project Name="exercise_5-2" ConfigName="Debug"/>
+      <Project Name="const" ConfigName="Debug"/>
+      <Project Name="inheritance" ConfigName="Debug"/>
+      <Project Name="maniipulating_strings" ConfigName="Debug"/>
+      <Project Name="is_punc" ConfigName="Debug"/>
+      <Project Name="password_grade" ConfigName="Debug"/>
+      <Project Name="word_mixer" ConfigName="Debug"/>
+      <Project Name="testing" ConfigName="Debug"/>
+      <Project Name="references" ConfigName="Debug"/>
+      <Project Name="hangman" ConfigName="Debug"/>
+      <Project Name="files" ConfigName="Debug"/>
+      <Project Name="files" ConfigName="Debug"/>
+      <Project Name="files2" ConfigName="Debug"/>
+      <Project Name="calculator" ConfigName="Debug"/>
+      <Project Name="namespace" ConfigName="Debug"/>
+      <Project Name="structs" ConfigName="Debug"/>
+      <Project Name="member_functions" ConfigName="Debug"/>
+      <Project Name="enums" ConfigName="Debug"/>
+      <Project Name="enums2" ConfigName="Debug"/>
+      <Project Name="vector_capacity" ConfigName="Debug"/>
+      <Project Name="the_french_thing" ConfigName="Debug"/>
+      <Project Name="random_ascii" ConfigName="Debug"/>
+      <Project Name="customizing_input_and_output" ConfigName="Debug"/>
+      <Project Name="chapter_11_drill" ConfigName="Debug"/>
+      <Project Name="chapter_11_1" ConfigName="Debug"/>
+      <Project Name="chapter_11_3" ConfigName="Debug"/>
+      <Project Name="graphics" ConfigName="Debug"/>
+      <Project Name="maps" ConfigName="Debug"/>
+      <Project Name="the_french_thingy_2" ConfigName="Debug"/>
+      <Project Name="count_algorithm" ConfigName="Debug"/>
+      <Project Name="replace_algorithm" ConfigName="Debug"/>
+      <Project Name="min_and_max_element" ConfigName="Debug"/>
+      <Project Name="the_practise_prodject" ConfigName="Debug"/>
+      <Project Name="french" ConfigName="Debug"/>
+      <Project Name="online_shopping" ConfigName="Debug"/>
+      <Project Name="testing_2" ConfigName="Debug"/>
+      <Project Name="for_storing_code" ConfigName="Debug"/>
+      <Project Name="lambda_expressions" ConfigName="Debug"/>
+      <Project Name="arrays" ConfigName="Debug"/>
+      <Project Name="c-style_strings" ConfigName="Debug"/>
+      <Project Name="function_objects" ConfigName="Debug"/>
+      <Project Name="bubble_sort" ConfigName="Debug"/>
+      <Project Name="array_product_sales" ConfigName="Debug"/>
+      <Project Name="two_dimensional_arrays" ConfigName="Debug"/>
+      <Project Name="mpg_exeption" ConfigName="Debug"/>
+      <Project Name="mpg_calculator" ConfigName="Debug"/>
+      <Project Name="murach" ConfigName="Debug"/>
+      <Project Name="enter_num" ConfigName="Debug"/>
+      <Project Name="custom_exeption" ConfigName="Debug"/>
+      <Project Name="classes_test" ConfigName="Debug"/>
+      <Project Name="practice_with_constructors" ConfigName="Debug"/>
+      <Project Name="Movie_class" ConfigName="Debug"/>
+      <Project Name="Book_class" ConfigName="Debug"/>
+      <Project Name="custom_class_error" ConfigName="Debug"/>
+      <Project Name="orienteering" ConfigName="Debug"/>
+      <Project Name="overloading_arithmatic_operators" ConfigName="Debug"/>
+      <Project Name="char_counter" ConfigName="Debug"/>
+      <Project Name="this_pointer" ConfigName="Debug"/>
+      <Project Name="allocating_and_deallocating_memory" ConfigName="Debug"/>
+      <Project Name="copy_constructor/assignment" ConfigName="Debug"/>
+      <Project Name="Steps_class" ConfigName="Debug"/>
+      <Project Name="CustomContainer" ConfigName="Debug"/>
+      <Project Name="template_function" ConfigName="Debug"/>
+      <Project Name="find_midpoint_algorithm" ConfigName="Debug"/>
+      <Project Name="bjarne_18_drill" ConfigName="Debug"/>
+      <Project Name="is_palindrome" ConfigName="Debug"/>
+      <Project Name="christmas" ConfigName="Debug"/>
+      <Project Name="hangman2" ConfigName="Debug"/>
+      <Project Name="vector_iterator" ConfigName="Debug"/>
+      <Project Name="game" ConfigName="Debug"/>
+      <Project Name="fibonacci" ConfigName="Debug"/>
+      <Project Name="containers_and_algorithms" ConfigName="Debug"/>
+      <Project Name="threading" ConfigName="Debug"/>
+      <Project Name="mutex" ConfigName="Debug"/>
+      <Project Name="tic_tac_toe" ConfigName="Debug"/>
+      <Project Name="calc" ConfigName="Debug"/>
+      <Project Name="rubix" ConfigName="Debug"/>
+      <Project Name="chrono_c++20" ConfigName="Debug"/>
+      <Project Name="metaprogramming" ConfigName="Debug"/>
+      <Project Name="Jobber" ConfigName="Debug"/>
+      <Project Name="concurrency" ConfigName="Debug"/>
+      <Project Name="remove_const" ConfigName="Debug"/>
+      <Project Name="is_void" ConfigName="Debug"/>
+      <Project Name="is_nullpointer" ConfigName="Debug"/>
+      <Project Name="longest_palindrome_substr" ConfigName="Debug"/>
+      <Project Name="John_Lakos" ConfigName="Debug"/>
+      <Project Name="camera" ConfigName="Debug"/>
+      <Project Name="testflow" ConfigName="Debug"/>
+      <Project Name="operating_system" ConfigName="Debug"/>
+      <Project Name="AAA_test" ConfigName="Debug"/>
+      <Project Name="wordle" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="main.cpp" ConfigName="Release"/>
+      <Project Name="setw_grid" ConfigName="Release"/>
+      <Project Name="files" ConfigName="Release"/>
+      <Project Name="codewars" ConfigName="Release"/>
+      <Project Name="exercise_5-2" ConfigName="Release"/>
+      <Project Name="const" ConfigName="Release"/>
+      <Project Name="inheritance" ConfigName="Release"/>
+      <Project Name="maniipulating_strings" ConfigName="Release"/>
+      <Project Name="is_punc" ConfigName="Release"/>
+      <Project Name="password_grade" ConfigName="Release"/>
+      <Project Name="word_mixer" ConfigName="Release"/>
+      <Project Name="testing" ConfigName="Release"/>
+      <Project Name="references" ConfigName="Release"/>
+      <Project Name="hangman" ConfigName="Release"/>
+      <Project Name="files" ConfigName="Release"/>
+      <Project Name="files" ConfigName="Release"/>
+      <Project Name="files2" ConfigName="Release"/>
+      <Project Name="calculator" ConfigName="Release"/>
+      <Project Name="namespace" ConfigName="Release"/>
+      <Project Name="structs" ConfigName="Release"/>
+      <Project Name="member_functions" ConfigName="Release"/>
+      <Project Name="enums" ConfigName="Release"/>
+      <Project Name="enums2" ConfigName="Release"/>
+      <Project Name="vector_capacity" ConfigName="Release"/>
+      <Project Name="the_french_thing" ConfigName="Release"/>
+      <Project Name="random_ascii" ConfigName="Release"/>
+      <Project Name="customizing_input_and_output" ConfigName="Release"/>
+      <Project Name="chapter_11_drill" ConfigName="Release"/>
+      <Project Name="chapter_11_1" ConfigName="Release"/>
+      <Project Name="chapter_11_3" ConfigName="Release"/>
+      <Project Name="graphics" ConfigName="Release"/>
+      <Project Name="maps" ConfigName="Release"/>
+      <Project Name="the_french_thingy_2" ConfigName="Release"/>
+      <Project Name="count_algorithm" ConfigName="Release"/>
+      <Project Name="replace_algorithm" ConfigName="Release"/>
+      <Project Name="min_and_max_element" ConfigName="Release"/>
+      <Project Name="the_practise_prodject" ConfigName="Release"/>
+      <Project Name="french" ConfigName="Release"/>
+      <Project Name="online_shopping" ConfigName="Release"/>
+      <Project Name="testing_2" ConfigName="Release"/>
+      <Project Name="for_storing_code" ConfigName="Release"/>
+      <Project Name="lambda_expressions" ConfigName="Release"/>
+      <Project Name="arrays" ConfigName="Release"/>
+      <Project Name="c-style_strings" ConfigName="Release"/>
+      <Project Name="function_objects" ConfigName="Release"/>
+      <Project Name="bubble_sort" ConfigName="Release"/>
+      <Project Name="array_product_sales" ConfigName="Release"/>
+      <Project Name="two_dimensional_arrays" ConfigName="Release"/>
+      <Project Name="mpg_exeption" ConfigName="Release"/>
+      <Project Name="mpg_calculator" ConfigName="Release"/>
+      <Project Name="murach" ConfigName="Release"/>
+      <Project Name="enter_num" ConfigName="Release"/>
+      <Project Name="custom_exeption" ConfigName="Release"/>
+      <Project Name="classes_test" ConfigName="Release"/>
+      <Project Name="practice_with_constructors" ConfigName="Release"/>
+      <Project Name="Movie_class" ConfigName="Release"/>
+      <Project Name="Book_class" ConfigName="Release"/>
+      <Project Name="custom_class_error" ConfigName="Release"/>
+      <Project Name="orienteering" ConfigName="Release"/>
+      <Project Name="overloading_arithmatic_operators" ConfigName="Release"/>
+      <Project Name="char_counter" ConfigName="Release"/>
+      <Project Name="this_pointer" ConfigName="Release"/>
+      <Project Name="allocating_and_deallocating_memory" ConfigName="Release"/>
+      <Project Name="copy_constructor/assignment" ConfigName="Release"/>
+      <Project Name="Steps_class" ConfigName="Release"/>
+      <Project Name="CustomContainer" ConfigName="Release"/>
+      <Project Name="template_function" ConfigName="Release"/>
+      <Project Name="find_midpoint_algorithm" ConfigName="Release"/>
+      <Project Name="bjarne_18_drill" ConfigName="Release"/>
+      <Project Name="is_palindrome" ConfigName="Release"/>
+      <Project Name="christmas" ConfigName="Release"/>
+      <Project Name="hangman2" ConfigName="Release"/>
+      <Project Name="vector_iterator" ConfigName="Release"/>
+      <Project Name="game" ConfigName="Release"/>
+      <Project Name="fibonacci" ConfigName="Release"/>
+      <Project Name="containers_and_algorithms" ConfigName="Release"/>
+      <Project Name="threading" ConfigName="Release"/>
+      <Project Name="mutex" ConfigName="Release"/>
+      <Project Name="tic_tac_toe" ConfigName="Release"/>
+      <Project Name="calc" ConfigName="Release"/>
+      <Project Name="rubix" ConfigName="Release"/>
+      <Project Name="chrono_c++20" ConfigName="Release"/>
+      <Project Name="metaprogramming" ConfigName="Release"/>
+      <Project Name="Jobber" ConfigName="Release"/>
+      <Project Name="concurrency" ConfigName="Release"/>
+      <Project Name="remove_const" ConfigName="Release"/>
+      <Project Name="is_void" ConfigName="Release"/>
+      <Project Name="is_nullpointer" ConfigName="Release"/>
+      <Project Name="longest_palindrome_substr" ConfigName="Release"/>
+      <Project Name="John_Lakos" ConfigName="Release"/>
+      <Project Name="camera" ConfigName="Release"/>
+      <Project Name="testflow" ConfigName="Release"/>
+      <Project Name="operating_system" ConfigName="Release"/>
+      <Project Name="AAA_test" ConfigName="Release"/>
+      <Project Name="wordle" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
